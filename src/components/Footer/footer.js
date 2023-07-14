@@ -19,9 +19,9 @@ const Footer = () => {
           >
             <img src={logo} className="footerLogo" alt="" />
             <div className="ml-4">
-              <h3 className="text-2xl text-white font-bold mt-4">Krashak.AI</h3>
+              <h3 className="text-2xl text-white font-bold mt-4">FarmConnect</h3>
               <p className="text-md font-normal text-white mt-2">
-                WeAreFarmerVoice
+                #ConnectingFarmersAcrossWorld
               </p>
             </div>
           </div>
@@ -102,7 +102,7 @@ const Footer = () => {
             />
           </div>
           <p className="text-lg ml-6 text-white">
-            Made by : <strong>Team Geeks_on_Fire</strong>
+            Made by : <strong>Team Invictus_Hackers</strong>
           </p>
         </div>
         <div className="flex-1 flex mr-6">

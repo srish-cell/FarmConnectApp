@@ -13,10 +13,10 @@ const Body = () => {
             Farmers' Help Center
           </p>
           <p className="text-6xl font-medium text-center text-green-600 max-w-md mb-4">
-            KRASHAK.AI
+            FarmConnect
           </p>
           <p className="text-2xl font-bold text-center text-white">
-            #WeAreFarmers'Voice
+            #ConnectingFarmersAcrossWorld
           </p>
         </div>
       </div>

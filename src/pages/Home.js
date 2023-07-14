@@ -7,7 +7,8 @@ const Home = () => {
   return (
     <>
       <PreHeader />
-      <Header />
+      <Header> <title>FarmConnect
+      </title></Header>
       <Body />
       <Footer />
     </>
